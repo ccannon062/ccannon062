@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="caleb.cristoph.cannon@gmail.com">
+  <a href="mailto:caleb.cristoph.cannon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/cannoncc/" target="_blank">
