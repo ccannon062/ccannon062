@@ -1,5 +1,5 @@
 # 💫About Me :
-Creighton University junior studying computer science who enjoys taking on difficult technical difficulties. Now serving as a student-athlete tutor, CS teaching assistant, and AI research assistant. Competent at developing software, data structures, and algorithms, with an emphasis on creative thinking and artificial intelligence.
+Creighton University senior studying computer science who enjoys taking on difficult technical difficulties. Now serving as a student-athlete tutor, CS teaching assistant, and AI research assistant. Competent at developing software, data structures, and algorithms, with an emphasis on creative thinking and artificial intelligence.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cannoncc/)
