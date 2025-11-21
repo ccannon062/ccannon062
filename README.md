@@ -1,7 +1,7 @@
-# 💫About Me :
+# About Me :
 Creighton University senior studying computer science who enjoys taking on difficult technical difficulties. Now serving as a student-athlete tutor, CS teaching assistant, and AI research assistant. Competent at developing software, data structures, and algorithms, with an emphasis on creative thinking and artificial intelligence.
 
-## 🌐Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cannoncc/)
 
 ### **Programming Languages**  
@@ -23,12 +23,12 @@ Creighton University senior studying computer science who enjoys taking on diffi
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-%234AC8E0?style=for-the-badge&logo=swagger&logoColor=white) ![JUnit](https://img.shields.io/badge/junit-%23A52A2A?style=for-the-badge&logo=junit5&logoColor=white)
 
 
-# 📊GitHub Stats :
+# GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ccannon062&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ccannon062&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccannon062&hide=Jupyter%20Notebook,CSS,procfile&theme=tokyonight&hide_border=false&layout=compact)
 
-### ✍️Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
